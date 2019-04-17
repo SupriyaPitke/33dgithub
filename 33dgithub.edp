@@ -4,8 +4,9 @@
   <_Project>
     <ProjectName val="33dgithub"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{D4A24EFF-57C2-4B19-9894-6D4479026259}"/>
